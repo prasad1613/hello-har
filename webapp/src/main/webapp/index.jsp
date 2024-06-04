@@ -16,13 +16,13 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            background-color: #f4f4f4;
+            background-color: blue;
             color: #333;
         }
 
         /* Header styles */
         header {
-            background-color: #333;
+            background-color: green;
             color: #fff;
             padding: 10px 0;
             text-align: center;
@@ -43,7 +43,7 @@
 
         header nav ul li a {
             color: #fff;
-            text-decoration: none;
+            text-decoration: orange;
             font-weight: bold;
         }
 
@@ -67,7 +67,7 @@
 
         /* Footer styles */
         footer {
-            background-color: #333;
+            background-color: red;
             color: #fff;
             text-align: center;
             padding: 10px 0;
