@@ -79,7 +79,7 @@
 </head>
 <body>
     <header>
-        <h1>My Simple Website</h1>
+        <h1>Rommels Website</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
