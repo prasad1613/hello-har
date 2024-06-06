@@ -16,13 +16,13 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            background-color: blue;
+            background-color: black;
             color: #333;
         }
 
         /* Header styles */
         header {
-            background-color: green;
+            background-color: yellow;
             color: #fff;
             padding: 10px 0;
             text-align: center;
