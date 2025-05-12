@@ -1,6 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New user Register for DevOps Learning, happy learning, happy day</h1>
+    <h1>For dockerhub check, lavaya here<h1>
+      <h1>Docker cmd via jenkins<h1>
+      <h1>kubernetes here, webhook check completed<h1>
+     <h1>Error fixed now permanently, Thankyou<h1> 
+    <h1>Poornaprasath here to learn Devops /h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +36,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning , happy weekend, have a vibes, joy......</h1>
 
   
 </form>
