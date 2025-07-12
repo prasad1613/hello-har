@@ -21,7 +21,7 @@ spec:
         image: prasads1613/hello-harness:1.0.0
         imagePullPolicy: Always
         ports:
-        - containerPort: 8080
+        - containerPort: 80
   strategy:
     type: RollingUpdate
     rollingUpdate:
