@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: regapp
-        image: prasads1613/hello-harness:1.0.0
+        image: prasads1613/hello-harness:2.0.0
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
